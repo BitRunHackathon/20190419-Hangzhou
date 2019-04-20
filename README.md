@@ -138,7 +138,7 @@ Highlights：宠物行业新探索，虚拟宠物养成，线上线下宠物平�
 #### 项目简介：
 <Br/>
 
-## 18.[石炉披萨](https://github.com/AwesomeHuang/digital_identity) - GXChain
+## 18.[BitRocket](https://github.com/AwesomeHuang/digital_identity) - GXChain
 ##### BitRun Block Height：0051
 #### 团队成员：黄诤杰、陈岩、张淼、刘万、杨天泽
 #### 项目简介：
