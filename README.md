@@ -104,13 +104,13 @@ Highlights：宠物行业新探索，虚拟宠物养成，线上线下宠物平�
 ## 12.[说什么都队](https://github.com/ustcgxchain2048/jianghuzaijian) - GXChain 
 ##### BitRun Block Height：0045
 #### 团队成员：黄根、周旺、曹子亨、刘其鑫
-#### 项目简介：
+#### 项目简介：这是一款基于区块链的小游戏
 <Br/>
 
 ## 13.[CBNY](https://github.com/Yuan-hay/CBNY/blob/master/README.md) - GXChain
 ##### BitRun Block Height：0046
 #### 团队成员：贾巍、袁彬哲、冯奕逍、陶圣
-#### 项目简介：
+#### 项目简介：xjb-click game
 <Br/>
 
 ## 14.[大杭海](https://github.com/linqd1/Dahanghai) - CPChain
