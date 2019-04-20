@@ -8,19 +8,32 @@
 ## 1.[invertible](https://github.com/dremofly/bitrun9102_invertible) 
 ##### BitRun Block Height：0034
 #### 团队成员：汤鸿、陈鹏、张翔州、曹敦旭、李博仪
-#### 项目简介：
+#### 项目简介：投票工具 
+1、前端及后端交互设计：发起投票 ->发起投票者注册->编辑信息 -> 发起投票者发布发起投票后，投票者进入投票界面，投票（即调用智能合约）。 <br/>
+2、防止投票过程中的刷票-> 人脸识别 -> 人脸对比验证 -> 对于人脸图像隐私的问题，每一张人脸图像使用深度神经网络进行编码，人脸验证时，再用特殊的深度神经网络算法进行解码。 <br/>
+3、商业模式：发起投票者在发起投票时会向运营公司支付一定费用，或者成为会员，才能发起投票，投票者界面增加“发起投票”按钮，以实现“病毒”营销。 <br/>
+4、商业应用场景：toC,toB都可以，个人或者企业选举，增加选举的透明性，商业投票等。<br/>
 <Br/>
 
 ## 2.[Hairtail](https://github.com/Tundriolaxy/Hairtail) 
 ##### BitRun Block Height：0035
 #### 团队成员：李德润、张晨杨、陈濛、逄白、陈天素
-#### 项目简介：Blockchain for advertising analytics.
+#### 项目简介：A blockchain project for advertising analytics.
+How might we prevent Ads scam from advertisers to retain real effect of promotion?
+- Initial target:
+i. An open-source counting script for websites to upload DAU (daily or hourly)
+- Motivation: Provide reliable data sources (Important)
+ii. Upload mechanism
+iii. Interpretation of analytics and UI
+- back-end development | data analytics
+- front-end development | user interface
 <Br/>
 
 ## 3.[兔羊兔拿衣服队](https://github.com/too-yang/BitRun-AutoCorectorIDE) 
 ##### BitRun Block Height：0036
 #### 团队成员：赵胤淞、查文森、张艺伟、朱俊诚、蔡源彬
-#### 项目简介：
+#### 项目简介：AutoCorectorIDE
+从代码提供者的代码中识别和保存正确的代码，并对其给予等价值的奖励。 将正确的代码发送给需要修改者，并收取相应价值的money。 通过这种方式，可以自动利用相应的综合知识和对应劳动力来改进每个代码。
 <Br/>
 
 ## 4.[0x238e](https://github.com/0x238e/Vchain) 
