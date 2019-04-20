@@ -60,13 +60,14 @@ Highlights：宠物行业新探索，虚拟宠物养成，线上线下宠物平�
 ## 6.[TRY](https://github.com/jiangshuoxuan/jsx) - GXChain 
 ##### BitRun Block Height：0039
 #### 团队成员：蒋硕轩、陈钊、叶晓辉
-#### 项目简介：
+#### 项目简介：遗产链
 <Br/>
 
 ## 7.[Team I](https://github.com/JohnnyPeng18/BitRunHackathon2019) - GXChain 
 ##### BitRun Block Height：0040
 #### 团队成员：彭昀、朱海明、金铭、朱信冉
-#### 项目简介：
+#### 项目简介：基于GXChain的拍卖程序
+传统的拍卖程序存在买方卖方身份泄露，拍卖行泄露信息等缺点，本项目基于GXChain实现了对于卖方买方的隐私保护，借用区块链的匿名性，在拍卖的同时保护买方卖方的身份，避免身份泄露带来的风险。
 <Br/>
 
 ## 8.[wolven storm](https://github.com/wolven-storm-shtu/winds) - GXChain 
@@ -82,7 +83,8 @@ Highlights：宠物行业新探索，虚拟宠物养成，线上线下宠物平�
 ## 9.[996-dao](https://github.com/996-dao/work-track) - CPChain 
 ##### BitRun Block Height：0042
 #### 团队成员：徐鹤军、黄清昊、何梓安、王书悦、沈君达
-#### 项目简介：
+#### 项目简介：MiniBBS
+MiniBBS是一款小型的BBS（论坛）软件，虽然简单但是界面美观功能齐全
 <Br/>
 
 ## 10.[5bit](https://github.com/9102hackathon/5bit) - CPChain 
@@ -98,7 +100,7 @@ Highlights：宠物行业新探索，虚拟宠物养成，线上线下宠物平�
 ## 11.[Blank Team](https://github.com/COAOX/BlankT) - GXChain 
 ##### BitRun Block Height：0044
 #### 团队成员：徐亮、5swind、丁健、费钰辰
-#### 项目简介：
+#### 项目简介：Modified GXChain smart contract ide for WebAssembly compatibility
 <Br/>
 
 ## 12.[说什么都队](https://github.com/ustcgxchain2048/jianghuzaijian) - GXChain 
