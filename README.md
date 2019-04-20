@@ -141,5 +141,7 @@ Highlights：宠物行业新探索，虚拟宠物养成，线上线下宠物平�
 ## 18.[BitRocket](https://github.com/AwesomeHuang/digital_identity) - GXChain
 ##### BitRun Block Height：0051
 #### 团队成员：黄诤杰、陈岩、张淼、刘万、杨天泽
-#### 项目简介：
+#### 项目简介：digital_identity
+In this program, we define a decentralized digital identity store, users can upload their identity information to contract after encrpyting. <br/>
+Once a website wants to get user's information, user should generate an authentication string, website can use this string to get the information user want website to know.
 <Br/>
