@@ -99,3 +99,10 @@
 #### 项目简介：
 > We are going to combine machine learning and blockchain in this hackthon!
 <Br/>
+
+## 16.[西湖赛艇大队](https://github.com/zfscgy/Bitrun2019-ChainingLove) 
+##### BitRun Block Height：0048
+#### 团队成员：郑非、姚华威、陈东辉、马志宇、张雅渊
+#### 项目简介：
+<Br/>
+
