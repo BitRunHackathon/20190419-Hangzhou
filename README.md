@@ -97,4 +97,5 @@
 ##### BitRun Block Height：0048
 #### 团队成员：彭启洲、鲍捷、屈福阳、吴丹钦、齐文昊
 #### 项目简介：
+> We are going to combine machine learning and blockchain in this hackthon!
 <Br/>
