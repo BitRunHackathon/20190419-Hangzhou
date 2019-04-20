@@ -66,7 +66,7 @@
 ## 10.[5bit](https://github.com/9102hackathon/5bit) 
 ##### BitRun Block Height：0043
 #### 团队成员：马润薪、方红超、朱润南、李泓源、铁静杰
-#### 项目简介：
+#### 项目简介：你被一股神秘的力量包裹，卷到了一个不为人知的阁楼之中，你的唯一目的就是存活下去。
 <Br/>
 
 ## 11.[Blank Team](https://github.com/COAOX/BlankT) 
