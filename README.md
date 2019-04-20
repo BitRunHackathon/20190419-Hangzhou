@@ -5,8 +5,38 @@
 ### 本次BITRUN Hackathon由[GXChain](https://www.gxb.io/)和[CPChain](https://www.cpchain.io/)共同提供技术支持，还得到了Ultrain、一块链习、链闻等机构的大力支持。活动召集了八十多位优秀的区块链爱好者，在浙江财经大学文华校区学博楼，进行了48h 黑客马拉松比赛，此次Hackathon共诞生了N个优秀的作品，本着极客精神，我们将所有作品公布如下：
 <Br/>
 
-## [invertible](https://github.com/dremofly/bitrun9102_invertible) 
+## 1.[invertible](https://github.com/dremofly/bitrun9102_invertible) 
 ##### BitRun Block Height：0034
-#### 汤鸿、陈鹏、张翔州、曹敦旭、李博仪
+#### 团队成员：汤鸿、陈鹏、张翔州、曹敦旭、李博仪
+#### 项目简介：
+<Br/>
+
+## 2.[Hairtail](https://github.com/Tundriolaxy/Hairtail) 
+##### BitRun Block Height：0035
+#### 团队成员：李德润、张晨杨、陈濛、逄白、陈天素
+#### 项目简介：
+<Br/>
+
+## 3.[兔羊兔拿衣服队](https://github.com/too-yang/BitRun-AutoCorectorIDE) 
+##### BitRun Block Height：0036
+#### 团队成员：赵胤淞、查文森、张艺伟、朱俊诚、蔡源彬
+#### 项目简介：
+<Br/>
+
+## 4.[0x238e](https://github.com/0x238e/Vchain) 
+##### BitRun Block Height：0036
+#### 团队成员：叶者、罗雨威、张龙文、杨易为、曹松晖
+#### 项目简介：
+<Br/>
+
+## 5.[Famas](https://github.com/AndyQi777/Bitrun-Hackathon-Famas.git) 
+##### BitRun Block Height：0036
+#### 团队成员：戚倨瑞、乙立晖、常润泽、施芊靖、余春霖
+#### 项目简介：
+<Br/>
+
+## 6.[TRY](https://github.com/jiangshuoxuan/jsx) 
+##### BitRun Block Height：0036
+#### 团队成员：蒋硕轩、陈钊、叶晓辉
 #### 项目简介：
 <Br/>
