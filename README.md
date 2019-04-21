@@ -18,7 +18,7 @@
 ## 2.[Hairtail](https://github.com/Tundriolaxy/Hairtail) - GXChain 
 ##### BitRun Block Height：0035
 #### 团队成员：李德润、张晨杨、陈濛、逄白、陈天素
-#### 项目简介：A blockchain project for advertising analytics.
+#### 项目简介：楚道
 How might we prevent Ads scam from advertisers to retain real effect of promotion?
 Initial target:
 1. An open-source counting script for websites to upload DAU (daily or hourly)
@@ -35,6 +35,7 @@ Initial target:
 #### 项目简介：AutoCorectorIDE
 从代码提供者的代码中识别和保存正确的代码，并对其给予等价值的奖励。 将正确的代码发送给需要修改者，并收取相应价值的money。 通过这种方式，可以自动利用相应的综合知识和对应劳动力来改进每个代码。
 <Br/>
+
 
 ## 4.[0x238e](https://github.com/0x238e/Vchain) - CPChain 
 ##### BitRun Block Height：0037
@@ -57,10 +58,15 @@ Initial target:
 Highlights：宠物行业新探索，虚拟宠物养成，线上线下宠物平台的整合
 <Br/>
 
+
 ## 6.[TRY](https://github.com/jiangshuoxuan/jsx) - GXChain 
 ##### BitRun Block Height：0039
 #### 团队成员：蒋硕轩、陈钊、叶晓辉
-#### 项目简介：遗产链
+#### 项目简介：遗产
+1、去中心化的设计，可以有效防止了只有部分中心化节点恶意去破坏遗嘱的真实性。<br>
+2、遗嘱的唯一性。<br>
+3、提供标准的遗嘱类型文档，可以让部分对法律了解不深的老人可以直接选择填表式选择制定遗嘱类型。<br>
+4、遗嘱的的法律效力保障。<br>
 <Br/>
 
 ## 7.[Team I](https://github.com/JohnnyPeng18/BitRunHackathon2019) - GXChain 
