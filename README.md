@@ -106,13 +106,14 @@ MiniBBS是一款小型的BBS（论坛）软件，虽然简单但是界面美观�
 ## 11.[Blank Team](https://github.com/COAOX/BlankT) - GXChain 
 ##### BitRun Block Height：0044
 #### 团队成员：徐亮、5swind、丁健、费钰辰
-#### 项目简介：Modified GXChain smart contract ide for WebAssembly compatibility
+#### 项目简介：Modify smart contract ide for WebAssembly compatibility, and generate abi file from Typescript to GXChain ABI.
 <Br/>
 
 ## 12.[说什么都队](https://github.com/ustcgxchain2048/jianghuzaijian) - GXChain 
 ##### BitRun Block Height：0045
 #### 团队成员：黄根、周旺、曹子亨、刘其鑫
 #### 项目简介：这是一款基于区块链的小游戏
+这是一款基于区块链的休闲游戏。在游戏中你可以遇到很多武侠传奇中的英雄人物，看看你与他们的机缘吧。让我们江湖再见。
 <Br/>
 
 ## 13.[CBNY](https://github.com/Yuan-hay/CBNY/blob/master/README.md) - GXChain
@@ -130,8 +131,8 @@ MiniBBS是一款小型的BBS（论坛）软件，虽然简单但是界面美观�
 ## 15.[南瓜树队](https://github.com/bbjbbjbbj/Pumpkin-Tree) -Hyperledger 
 ##### BitRun Block Height：0048
 #### 团队成员：彭启洲、鲍捷、屈福阳、吴丹钦、齐文昊
-#### 项目简介：
-> We are going to combine machine learning and blockchain in this hackthon!
+#### 项目简介：Customer Loyalty Program with blockchain
+A customer loyalty program allows companies to reward customers who frequently make purchases. Program members are able to earn points on purchases, which can translate into some type of reward such as discount, freebie or special customer treatment. The members work toward a certain amount of points to redeem their reward. These programs can have multiple companies as partners on the program, to cater to a customer base. However, current loyalty program systems are restraint on relations between partners, and with visibility to members. These restraints can be removed by creating the customer loyalty program on a blockchain network.
 <Br/>
 
 ## 16.[西湖赛艇大队](https://github.com/zfscgy/Bitrun2019-ChainingLove) - ETH
